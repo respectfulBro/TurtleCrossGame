@@ -1,0 +1,8 @@
+1. THE CLASSIC TURTLE CROSSING GAME MADE IN PYTHON WITH TURTLE MODULES
+2. RUN THE main.py FILE TO RUN THE GAME.
+.....................................BUGS..................................
+   1. THE TEXT HIDES ITSELF BELOW THE SCREEN OBJECTS
+
+..........................GAME CONFIGURATIONS..............................
+1. YOU CAN CHANGE THE SPEED BY CHANGING THE time.sleep(//time in ms//) function
+2. YOU CAN INCREASE THE HARDNESS BY INCREASE THE COLLICSION DETECTION DISTANCE.
